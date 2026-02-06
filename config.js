@@ -42,15 +42,15 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "Itna pyaar?? 🥰🚀💝",  // Shows when they go past 5000%
+        extreme: "Itna pyaar?? 🥰💝",  // Shows when they go past 5000%
         high: "Ye to meter hi tut gya 💝",              // Shows when they go past 1000%
         normal: "🤩"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "I love you! 🎉💝💖💝💓",
-        message: "Now come get your gift, a big warm hug and a huge kiss!",
+        title: "I love you! 💖💝💓",
+        message: "Now run to me and confess your love!",
         emojis: "🎁💖🤗💝"  // These will bounce around
     },
 
